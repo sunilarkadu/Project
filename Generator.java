@@ -14,7 +14,7 @@ public class Generator {
     }
 
     public void mainLoop() {
-        System.out.println("Welcome to Ziz Password Services :)");
+        System.out.println("Welcome to Sunil Password Services :)");
         printMenu();
 
         String userOption = "-1";
